@@ -22,7 +22,7 @@ The below mentioned category of features are extracted from the URL data:
 
 *The details pertaining to these features are mentioned in the [URL Feature Extraction.ipynb.](https://github.com/ReethikaKethireddy/Phishing-Detection-using-ML-techniques/blob/main/Phishing%20Website%20Detection_Models%20%26%20Training.ipynb)[![Open In Colab]()](https://colab.research.google.com/drive/1zrEBQXkeb16yZFE5URgR7wu2MTksogXJ)*
 
-So, all together 17 features are extracted from the 10,000 URL dataset and are stored in '[5.urldata.csv](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/master/DataFiles/5.urldata.csv)' file in the DataSets folder.<br>
+So, all together 17 features are extracted from the 10,000 URL dataset and are stored in '[5.urldata.csv](https://github.com/ReethikaKethireddy/Phishing-Detection-using-ML-techniques/blob/main/DataSets/5.urldata.csv)' file in the DataSets folder.<br>
 The features are referenced from the https://archive.ics.uci.edu/ml/datasets/Phishing+Websites.
 
 ## Models & Training
