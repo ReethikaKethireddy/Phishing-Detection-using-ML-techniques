@@ -49,7 +49,7 @@ https://github.com/ReethikaKethireddy/Phishing-Detection-using-ML-techniques
 
  
 ## End Results
-From the obtained results of the above models, XGBoost Classifier has highest model performance of 86.4%. So the model is saved to the file '[XGBoostClassifier.pickle.dat](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/master/XGBoostClassifier.pickle.dat)'
+From the obtained results of the above models, XGBoost Classifier has highest model performance of 86.4%. So the model is saved to the file '[XGBoostClassifier.pickle.dat](https://github.com/ReethikaKethireddy/Phishing-Detection-using-ML-techniques/blob/main/XGBoostClassifier.pickle.dat)'
 
 ### Next Steps
 
